@@ -15,7 +15,7 @@ Like this plotted various other graphs
 
 
 Now we filtered Those words(token with max lenghth/length of the word)<0.75
-Translate those words into English.
+Translate those words with the help of Microsoft Azure Translator into English.
 replaced translated word in original dataset.
 Compare Bert Classification Model performance on both original and updated dataset.
 
